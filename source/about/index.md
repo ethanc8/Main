@@ -15,5 +15,6 @@ Additionally, many amazing open-source projects are built off of GNUstep:
 There are also proprietary software built off of GNUstep:
 * Algoriddim djay
 * TestPlant unit testing software
+* [Hopper disassembler](https://www.hopperapp.com/index.html)
 
 You can use GNUstep to build amazing apps and web services, and port your Mac apps to many platforms, including GNU/Linux, almost any UNIX system, Android, and Microsoft Windows.

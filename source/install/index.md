@@ -1,5 +1,15 @@
 # Install
 
+```{toctree}
+---
+hidden: true
+---
+GNULinux/Arch
+GNULinux/Debian
+GNULinux/EL
+GNULinux/Fedora
+```
+
 ## Old vs new runtime
 
 The **old runtime**, provided by GCC, supports Objective-C 2.0 features and supports the Apple runtime's APIs as well as its own. It does not support newer features, such as Blocks.
